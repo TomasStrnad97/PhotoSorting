@@ -1,2 +1,2 @@
 # photosorting
-Tool to sort photos into directories by date of creation
+Tool to sort photos into directories by the date of creation
