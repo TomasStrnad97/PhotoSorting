@@ -12,7 +12,7 @@ SYNOPSIS:
 
 OPTIONS:
 
-    If no options are given sorts by months and days.
+    If the are no options given sorts by months and days.
     --help          prints usage
     -h, --hours     sorts by hours
     -d, --days      sorts by days
